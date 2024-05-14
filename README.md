@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is an alt account for [brendonjkding](https://github.com/brendonjkding)
+This is an alt account for [brendonjkding](https://github.com/brendonjkding) mainly used to post things not related to jailbreak.
 <!--
 **koucyuu/koucyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
